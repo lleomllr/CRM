@@ -1,1 +1,1 @@
-# CRM
+Development of a QT application that dialogues with a SQL database to manage a contact and interaction database. Within the project, we need to be able to create a contact form and modify it, add an interaction such as an appointment or a comment, tag words, search for a contact by name or company and perform queries. All elements are stored in a SQLite database. A JSON data export is also available to facilitate interoperability.
